@@ -48,7 +48,7 @@ The execution time for specialized methods in sub-classes is more faster than me
 
 Java doesn’t Support multiple inheritance
 Refer below link for getting to know about multiple inheritance because of diamond problem.
-https://www.digitalocean.com/community/tutorials/multiple-inheritance-in-java
+	https://www.digitalocean.com/community/tutorials/multiple-inheritance-in-java
 
 Java supports multiple inheritance for interfaces.
 
@@ -58,6 +58,14 @@ If the super classes are also extending same parent class then the grandchildren
 It will be okay with interfaces because we will always invoke same implemented class.
 
 
+Composition vs Inheritance
+	One of the best practices of Java programming is to “favor composition over inheritance”. We will look into some of the aspects favoring this approach.
+	
+	there are 4 reasons for which composition is better than Inheritance
+	1.if we use inheritance we need to stick to Parent method Structure.
+	2.If super class is not properly designed then we will have same security holes in subclasses as well.
+	3.Composition provides flexibility in invocation
+	4.Unit testing is easy in composition because we know what all methods we are using from superclass and we can mock it up for testing whereas in inheritance we depend heavily on superclass and don’t know what all methods of superclass will be used, so we need to test all the methods of superclass, that is an extra work and we need to do it unnecessarily because of inheritance. 
 
 
 
