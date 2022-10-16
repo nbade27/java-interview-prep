@@ -1,5 +1,6 @@
 Inheritance Interview Questions
 ==============================
+	
 	What is inheritance?
 	Why we need Inheritance?
 	How to implement inheritance in java?
@@ -32,7 +33,10 @@ Inheritance Interview Questions
 	When will you prefer composition over inheritance?
 	How aggregation and composition are different concepts?
 	
-	
+
+
+Refer this link for answers
+https://www.scientecheasy.com/2021/02/inheritance-interview-questions.html/3/
 	
 	
 	
