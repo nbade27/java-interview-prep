@@ -1,0 +1,38 @@
+Inheritance Interview Questions
+==============================
+	What is inheritance?
+	Why we need Inheritance?
+	How to implement inheritance in java?
+	What are advantages and disadvantages of inheritance?
+	what is Is-A relationship in java?
+	which is super class of every class in java?
+	Can a class extend Itself?
+	Can we assign super class to subclass?
+	Can a class extend more than one class?
+	Are constructor and Instance Initialization block inherit to subClass?
+	Are Static members inherited to subClass?
+	Can we extend final class in java?
+	Can a final method be overriden in java?
+	Can we inherit private members of base class to its subClass?
+	What is the order of calling constructors in case of inheritance?
+	What are types of inheritance?	
+	Why java is not supporting Multiple Inheritance?
+	How will you restrict a member of a class from inheriting its subClass?
+	Can we access subclass members if we create an object of superclass?
+	What happens if both superclass and subclass have a field with same name?
+	Is interface inherited from the object class?
+	How will you prohibit inheritance in java?
+	Why we cannot call GrandParent class methods in GrandParent class in java?
+	What will happen if we declare super class constructor as private?
+	How many ways to implement relationships among classes in Java? --> Association,Aggregation,Composition,Inheritance
+	What is association in OOP?
+	What is  Aggregation?
+	What is composition?
+	Which is more tightly bound? Inheritance or Composition?
+	When will you prefer composition over inheritance?
+	How aggregation and composition are different concepts?
+	
+	
+	
+	
+	
