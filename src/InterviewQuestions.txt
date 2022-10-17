@@ -1,5 +1,6 @@
-Inheritance Interview Questions
-==============================
+																				Inheritance
+																				===========
+
 	
 	What is inheritance?
 	Why we need Inheritance?
@@ -37,6 +38,43 @@ Inheritance Interview Questions
 
 Refer this link for answers
 https://www.scientecheasy.com/2021/02/inheritance-interview-questions.html/3/
-	
+
+
+Association : Creating same class object twice and 
+
+																					Abstraction
+																					===========
+																					
+1.What is Abstraction in java?
+2.How to achieve or implement Abstraction in Java?
+3.What is Abstract class in Java? How to define it?
+4.What is difference between abstract class and concrete class?
+5.What is Abstract in Java?
+6.Can abstract modifier applicable for variables?
+7.What is Abstract method in Java?
+8.Can an abstract method be declared as static?
+9.Can an abstract method be declared with private modifier?
+10.What is concrete method in Java?
+11.When to use Abstract class Java?
+12.When to use abstract method in java?
+13.Is abstract a pure abstraction in java?
+14.Is it possible to create object of abstract class in java?
+15.Is it possible that an abstract class can have without any abstract method?
+16.Can abstract class have constructor?
+17.Is abstract class allow define private,final,static, and concrete methods?
+18.Is it possible to achieve Multiple inheritance through abstract class?
+19.Can we make abstract class without abstract keyword?
+20.Can we define abstract method inside non-abstract(concrete) class?
+21.What will happen if we do not override all abstract methods in subclass?
+22.What is the difference between Abstraction and encapsulation?
+23.Why abstract class has constructor even though you cannot create object?
+24.Why should we create reference to super class(abstract class reference)?
+25.What is the advantage of abstract class in Java?
+26.
+
+Refer below link for answers
+https://www.scientecheasy.com/2021/02/abstract-class-interview-questions.html/
+									
+																					
 	
 	
