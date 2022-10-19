@@ -104,7 +104,32 @@ Polymorphism
 	24. What is the difference between static binding and dynamic binding in Java?
 	25. Why binding of private, static, and final methods are always static binding in Java?
 	
-										
+	Refer below link for answers
+		https://www.scientecheasy.com/2021/02/polymorphism-interview-questions.html/
+	
+
+
+Encapsulation
+		
+		What is Encapsulation in Java? Why is it called Data hiding?
+		What are the important features of Encapsulation?
+		What is the advantage of Encapsulation?
+		What are the main benefits of using encapsulation in Java?
+		How to achieve encapsulation in Java? Give an example.
+		What is data hiding in Java?
+		How to achieve Data hiding programmatically?
+		What is a Tightly encapsulated class in Java?
+		What is the difference between Abstraction and Encapsulation?
+		Can we achieve abstraction without encapsulation in Java?
+		What are getter and setter methods in Java?
+		Does reflection violates encapsulation in Java?
+		What is reflection API in java?
+		Explain design pattern based on encapsulation in java?
+		How can the variable of the EncapsulationTest be accessed by using getter and setter methods?		
+		
+		
+		Refer this link for answers
+		https://www.scientecheasy.com/2018/06/real-encapsulation-interview-questions-answers.html/								
 																						
 		
 		

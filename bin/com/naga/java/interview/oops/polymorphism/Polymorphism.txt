@@ -19,5 +19,10 @@ Compiletime polymorphism (or early binding):
 	Operator Overloading : + operator is used in arithematic operations but it is also used in concatinating strings.
 
 Runtime polymorphism :
+	Method overriding is an example of runtime polymorphism. A subclass overrides a method with same signature as that its super class.
+	we can call subclass overridden methods by super class reference is called Runtime polymorphism.
+	during compiletime it will check the reference type.
+	
+	 
 	 
 	
