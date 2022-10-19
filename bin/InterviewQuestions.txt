@@ -70,11 +70,41 @@ Association : Creating same class object twice and
 23.Why abstract class has constructor even though you cannot create object?
 24.Why should we create reference to super class(abstract class reference)?
 25.What is the advantage of abstract class in Java?
-26.
 
 Refer below link for answers
 https://www.scientecheasy.com/2021/02/abstract-class-interview-questions.html/
-									
-																					
+
+
+Polymorphism
+============
+
+	1. What is Polymorphism in Java OOPs?
+	2. What are the types of Polymorphism in Java?
+	3. What are different ways to achieve or implement polymorphism in Java?
+	4. How is Inheritance useful to achieve Polymorphism in Java?
+	5. What are the advantages of Polymorphism?
+	6. What are the differences between Polymorphism and Inheritance in Java?
+	7. What is Compile time polymorphism (Static polymorphism)?
+	8. How to achieve or implement static polymorphism in Java?
+	9. How Java compiler differentiate between methods in Compile time Polymorphism?
+	10. What is Runtime Polymorphism (Dynamic Polymorphism)?
+	11. How to achieve/implement dynamic polymorphism in Java?
+	12. Is it possible to implement runtime polymorphism by data members in Java?
+	13. What are the differences between compile-time polymorphism and runtime polymorphism in java?
+	14. What is Binding in Java?
+	15. What are the types of binding in Java?
+	16. What is Static binding in Java?
+	17. How Java compiler performs static binding?
+	18. Why static binding is also called early binding in Java?
+	19. Give an example of static binding.
+	20. What is Dynamic binding in Java?
+	21. How JVM performs dynamic binding in Java?
+	22. Why Dynamic binding is also called late binding in java?
+	23. Give an example of dynamic binding in Java.
+	24. What is the difference between static binding and dynamic binding in Java?
+	25. Why binding of private, static, and final methods are always static binding in Java?
 	
-	
+										
+																						
+		
+		

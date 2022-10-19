@@ -1,0 +1,23 @@
+=============Polymorphism===========
+Definition : Polymorphism means many forms. It occurs when we have many classes that are related to each other by inheritance.
+There are two types of polymorphism : 
+	1.Compile time polymorphism (Static binding)
+	2.Run time polymorphism (Dynamic binding)
+
+Compiletime polymorphism (or early binding):
+	Compiletime polymorphism is resolved during the compilation process. Overloading of methods is called through the reference variable of a class.Compile-time polymorphism is achieved by method overloading and operation overloading.
+	
+	It is achieved by Method Overloading. 
+	Method Overloding :
+		We may have multiple methods which will have same method name and different number of parameters (or) different dataTypes as parameters (or) by changing the sequence of parameters. This process is called Method Overloading.
+		Example : 
+			void polyMorphing(){....}
+			void polyMorphing(int number){....}
+			void polyMorphing(String name){....}
+			void polyMorphing(char gender){....}
+			void polyMorphing(int number,String name,char gender){....}
+	Operator Overloading : + operator is used in arithematic operations but it is also used in concatinating strings.
+
+Runtime polymorphism :
+	 
+	
