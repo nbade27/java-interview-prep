@@ -130,6 +130,15 @@ Encapsulation
 		
 		Refer this link for answers
 		https://www.scientecheasy.com/2018/06/real-encapsulation-interview-questions-answers.html/								
-																						
+	
+	
+Multi-Threading 
+		
+		What is Thread in Java?
+		
+		
+		
+		Refer below link for answers
+		https://www.scientecheasy.com/2021/05/java-multithreading-interview-questions.html/																		
 		
 		
