@@ -16,7 +16,7 @@ public class EncapsulationDriver {
 		 */
 		
 		
-		System.out.println(encapsulation.firstName);
+		//System.out.println(encapsulation.firstName);
 		
 		//this line won't give any compilation error
 		encapsulation.setFirstName("Naga");
