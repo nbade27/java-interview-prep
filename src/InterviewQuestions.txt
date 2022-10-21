@@ -1,5 +1,5 @@
-																				Inheritance
-																				===========
+Inheritance
+===========
 
 	
 	What is inheritance?
@@ -42,8 +42,8 @@ https://www.scientecheasy.com/2021/02/inheritance-interview-questions.html/3/
 
 Association : Creating same class object twice and 
 
-																					Abstraction
-																					===========
+Abstraction
+===========
 																					
 1.What is Abstraction in java?
 2.How to achieve or implement Abstraction in Java?
@@ -139,6 +139,11 @@ Multi-Threading
 		
 		
 		Refer below link for answers
-		https://www.scientecheasy.com/2021/05/java-multithreading-interview-questions.html/																		
+		https://www.scientecheasy.com/2021/05/java-multithreading-interview-questions.html/	
+		
+		
+How to make a class as Mutable in java?
+	Refer below link
+	https://www.digitalocean.com/community/tutorials/how-to-create-immutable-class-in-java																	
 		
 		
