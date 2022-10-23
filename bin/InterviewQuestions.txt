@@ -111,6 +111,7 @@ Polymorphism
 
 
 Encapsulation
+=============
 		
 		What is Encapsulation in Java? Why is it called Data hiding?
 		What are the important features of Encapsulation?
@@ -134,7 +135,8 @@ Encapsulation
 	
 	
 Multi-Threading 
-		
+===============
+
 		What is Thread in Java?
 		
 		
@@ -147,4 +149,5 @@ How to make a class as Mutable in java?
 	Refer below link
 	https://www.digitalocean.com/community/tutorials/how-to-create-immutable-class-in-java																	
 		
+
 		
