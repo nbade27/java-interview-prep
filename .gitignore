@@ -1,0 +1,9 @@
+*.class
+.project
+.settings
+.iml
+target/
+.metadata
+*.jar
+.nb-**
+!target/my-special-file.txt
